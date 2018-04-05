@@ -1,0 +1,18 @@
+.nav-link, .navbar-brand{
+	color: white !important;
+}
+.nv-color{
+	background-color: rgba(129, 129, 129, 0.5)
+}
+#root, .App{
+	min-height: 1000px;
+}
+.coverSection{
+	min-height: 20em;
+}
+
+/* Backgrounds */
+.background-code{
+	background: url("../img/code-closeup.jpg");
+	background-size: cover;
+}
