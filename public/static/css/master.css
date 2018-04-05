@@ -1,3 +1,13 @@
+body{
+	color: rgba(0, 0, 0, 1)
+}
+h1{
+	font-family: 'Ubuntu', sans-serif;
+}
+p{
+	font-family: 'Tajawal', sans-serif;
+}
+
 .nav-link, .navbar-brand{
 	color: white !important;
 }
@@ -8,7 +18,24 @@
 	min-height: 1000px;
 }
 .coverSection{
-	min-height: 20em;
+	min-height: 100vh;
+}
+.main-quote h1{
+	min-height: 25%;
+	background-color: rgba(74, 62, 62, 0.3)
+}
+.main-quote h1{
+	color: white;
+}
+.port-item{
+	border: 2px solid rgba(20, 75, 62, 0.20);
+	padding-bottom: 1em;
+}
+
+/* General Classes */
+
+.alig-items-middle{
+	align-items: center;
 }
 
 /* Backgrounds */
