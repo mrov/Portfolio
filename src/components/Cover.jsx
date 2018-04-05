@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="row coverSection background-code">
-		<div className="col-12">
+		<div className="col-12 p-0">
 			<Header/>
 		</div>
 		<div className="main-quote">

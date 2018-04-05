@@ -22,7 +22,8 @@ p{
 }
 .main-quote h1{
 	min-height: 25%;
-	background-color: rgba(74, 62, 62, 0.3)
+	background-color: rgba(74, 62, 62, 0.3);
+	padding: 2% 10%;
 }
 .main-quote h1{
 	color: white;
